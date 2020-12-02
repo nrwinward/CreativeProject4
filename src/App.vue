@@ -16,7 +16,7 @@
         </div>
         <router-view />
         <footer class="footer">
-            <a href="https://github.com/nrwinward/CProject">GitHub</a>
+            <a href="https://github.com/nrwinward/CreativeProject3">GitHub</a>
         </footer>
     </div>
 </template>
